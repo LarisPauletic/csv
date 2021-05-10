@@ -1,0 +1,13 @@
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\bin\Debug\csvTransformer.exe.config
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\bin\Debug\csvTransformer.exe
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\bin\Debug\csvTransformer.pdb
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.Form1.resources
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.Properties.Resources.resources
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.UnosPodataka.resources
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.exe
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.pdb
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.Filtriranje_podataka.resources
+C:\Users\Laris\source\repos\csvTransformer\csvTransformer\obj\Debug\csvTransformer.PregledPodataka.resources
